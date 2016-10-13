@@ -1,2 +1,2 @@
-# Biblioteka
-Biblioteka w C#
+# Library
+Library webpage in C#
